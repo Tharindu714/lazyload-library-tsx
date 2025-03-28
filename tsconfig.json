@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "ES5",
+      "lib": ["dom", "es2015"],
+      "jsx": "react-jsx",
+      "moduleResolution": "node",
+      "module": "ESNext",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "strict": true
+    },
+    "include": ["src/**/*"],
+    "exclude": [
+      "node_modules"
+    ]
+  }
+  
